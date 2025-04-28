@@ -1,7 +1,9 @@
 Juegos y Programas en Python
+
 Este repositorio contiene programas simples en Python para practicar conceptos básicos de programación, como condicionales y bucles.
 
 Programas
+
 1. Verificación de número (positivo, cero, negativo)
 Verifica si el número ingresado es positivo, negativo o cero.
 
